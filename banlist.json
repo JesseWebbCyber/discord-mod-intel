@@ -1,322 +1,322 @@
 [
   {
-    "id": "1023079001985663126",
-    "timestamp": "10/04/2026 3:40 PM",
-    "reason": "Impersonated community staff members to target unsuspecting users in direct messages."
-  },
-  {
-    "id": "1068874695702761482",
-    "timestamp": "10/08/2026 1:35 PM",
-    "reason": "Unsolicited DM spammer targeting server members with phishing links."
-  },
-  {
-    "id": "1110476666192535653",
-    "timestamp": "10/04/2026 9:21 PM",
-    "reason": "Confirmed ban evasion alt ('linux706') belonging to a serial harasser."
-  },
-  {
-    "id": "1144325061654888649",
-    "timestamp": "10/09/2026 7:00 PM",
-    "reason": "Compromised account participating in coordinated malicious spam raids."
-  },
-  {
-    "id": "1196850086953631755",
-    "timestamp": "10/04/2026 2:45 PM",
-    "reason": "Promoted fraudulent 'MrBeast' cryptocurrency giveaway scams in chat."
-  },
-  {
-    "id": "1197253997543825521",
-    "timestamp": "10/04/2026 9:21 PM",
-    "reason": "Confirmed ban evasion alt ('steavengameryt') belonging to a serial harasser."
-  },
-  {
-    "id": "1226567367941689536",
-    "timestamp": "08/23/2026 8:42 PM",
-    "reason": "Malicious bot account distributing unauthorized links and spam."
-  },
-  {
-    "id": "1242212409498927220",
-    "timestamp": "10/17/2026 2:06 PM",
-    "reason": "Automated bot account sending unsolicited recruitment scams in member direct messages."
-  },
-  {
-    "id": "1283321787341340744",
-    "timestamp": "10/04/2026 9:27 PM",
-    "reason": "Confirmed ban evasion alt ('hell706') belonging to a serial harasser."
-  },
-  {
-    "id": "1286838349335629906",
-    "timestamp": "10/02/2026 4:48 PM",
-    "reason": "Automated adult-content / OnlyFans spam bot targeting server members."
-  },
-  {
-    "id": "1287854594482901005",
-    "timestamp": "10/09/2026 7:00 PM",
-    "reason": "Compromised account participating in coordinated malicious spam raids."
-  },
-  {
-    "id": "1287882355251478550",
-    "timestamp": "10/01/2026 7:21 AM",
-    "reason": "Compromised account distributing malicious links across tech servers."
-  },
-  {
     "id": "1313451022491848764",
-    "timestamp": "10/19/2026 3:05 PM",
+    "date": "10/19/2026",
     "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
-  },
-  {
-    "id": "1313958539773087845",
-    "timestamp": "10/04/2026 11:57 PM",
-    "reason": "Primary account ('lenoirsx_') of a persistent troll spreading hate speech and Discord ToS violations."
-  },
-  {
-    "id": "1340331428738502787",
-    "timestamp": "05/29/2026 12:00 PM",
-    "reason": "Compromised account flagged for persistent spam distribution."
-  },
-  {
-    "id": "1351938127530430536",
-    "timestamp": "10/04/2026 11:56 PM",
-    "reason": "Confirmed alt account ('matthewandre_x') used for ban evasion and harassment."
-  },
-  {
-    "id": "1369678199201730602",
-    "timestamp": "10/04/2026 9:21 PM",
-    "reason": "Confirmed ban evasion alt ('ratchet0549') belonging to a serial harasser."
-  },
-  {
-    "id": "1373356582657589398",
-    "timestamp": "10/17/2026 1:49 AM",
-    "reason": "Automated bot sending unsolicited spam links into member direct messages."
-  },
-  {
-    "id": "1383608829379346525",
-    "timestamp": "10/04/2026 9:27 PM",
-    "reason": "Deleted alt account identified in cross-server ban evasion network."
-  },
-  {
-    "id": "1395449757371076628",
-    "timestamp": "09/03/2026 10:47 AM",
-    "reason": "Automated scam bot masquerading as an AI firm to harvest user credentials."
-  },
-  {
-    "id": "1400825354435821730",
-    "timestamp": "10/04/2026 3:23 AM",
-    "reason": "Account ('vstromakias7') promoting fraudulent cryptocurrency scams."
-  },
-  {
-    "id": "1414752214051721348",
-    "timestamp": "10/04/2026 9:21 PM",
-    "reason": "Confirmed ban evasion alt ('ah23421') belonging to a serial harasser."
-  },
-  {
-    "id": "1426974684834041971",
-    "timestamp": "10/04/2026 11:59 PM",
-    "reason": "Confirmed ban evasion alt ('v3nk_i') used for silent lurking and evasion."
-  },
-  {
-    "id": "1430353021946040410",
-    "timestamp": "10/09/2026 7:00 PM",
-    "reason": "Compromised account participating in coordinated malicious spam raids."
-  },
-  {
-    "id": "1436422427142787243",
-    "timestamp": "10/04/2026 9:21 PM",
-    "reason": "Confirmed ban evasion alt ('yassingamer0317') belonging to a serial harasser."
-  },
-  {
-    "id": "1456722209656803483",
-    "timestamp": "10/04/2026 9:28 PM",
-    "reason": "Underage user engaging in hate speech and repeated racial slurs."
-  },
-  {
-    "id": "1484769295232794674",
-    "timestamp": "07/02/2026 10:20 PM",
-    "reason": "Automated bot account spamming fraudulent gambling service promotions."
-  },
-  {
-    "id": "1490501890109341919",
-    "timestamp": "08/21/2026 10:34 PM",
-    "reason": "Compromised account spreading fraudulent 'MrBeast' giveaway scams."
-  },
-  {
-    "id": "1492875609372885052",
-    "timestamp": "09/30/2026 1:30 PM",
-    "reason": "Malicious spam bot reported to Discord Trust & Safety for account compromise."
-  },
-  {
-    "id": "1498951849493921943",
-    "timestamp": "06/04/2026 7:36 AM",
-    "reason": "Scam account ('@mike_heleket') conducting unauthorized outreach in direct messages."
-  },
-  {
-    "id": "1504087093528231996",
-    "timestamp": "09/01/2026 2:55 AM",
-    "reason": "Underage user raiding community voice and text channels."
-  },
-  {
-    "id": "1505223386199232674",
-    "timestamp": "10/04/2026 9:27 PM",
-    "reason": "Confirmed ban evasion alt ('sophus359353' / 'agdagfda') belonging to a serial harasser."
-  },
-  {
-    "id": "1507457811381096458",
-    "timestamp": "10/07/2026 11:22 AM",
-    "reason": "Unsolicited DM spammer targeting members without shared mutual servers."
-  },
-  {
-    "id": "1519707665096507621",
-    "timestamp": "10/03/2026 11:06 AM",
-    "reason": "Scammer engaging in name-spoofing and deceptive identity theft."
-  },
-  {
-    "id": "1523754110409637980",
-    "timestamp": "10/08/2026 1:11 AM",
-    "reason": "Social engineering scammer attempting to trick members with fraudulent claims."
-  },
-  {
-    "id": "1533229968656568393",
-    "timestamp": "10/09/2026 7:00 PM",
-    "reason": "Compromised account participating in coordinated malicious spam raids."
-  },
-  {
-    "id": "1537455244928221206",
-    "timestamp": "09/04/2026 11:31 AM",
-    "reason": "Automated job listing spam bot posting fake employment opportunities."
-  },
-  {
-    "id": "1545981820649218090",
-    "timestamp": "09/11/2026 11:44 PM",
-    "reason": "Automated scam bot targeting member direct messages with malicious links."
-  },
-  {
-    "id": "1546840214960607243",
-    "timestamp": "09/08/2026 4:24 PM",
-    "reason": "Automated bot account scraping member lists and spamming fake job listings."
-  },
-  {
-    "id": "1551464928248856607",
-    "timestamp": "10/15/2026 1:33 PM",
-    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
-  },
-  {
-    "id": "1555337843235102885",
-    "timestamp": "10/01/2026 11:45 PM",
-    "reason": "Scammer advertising fraudulent high-income / 'earn 100k' financial schemes."
-  },
-  {
-    "id": "1555525351914999866",
-    "timestamp": "10/04/2026 3:20 AM",
-    "reason": "Malicious account reported for unsolicited advertising and deceptive links."
-  },
-  {
-    "id": "1555629557510447115",
-    "timestamp": "10/15/2026 1:33 PM",
-    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
-  },
-  {
-    "id": "1556010033479815328",
-    "timestamp": "10/15/2026 1:33 PM",
-    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
-  },
-  {
-    "id": "1561031456392876142",
-    "timestamp": "10/18/2026 4:06 PM",
-    "reason": "Ban evasion alt account used to re-enter servers after prior moderation removal."
-  },
-  {
-    "id": "340714404314349570",
-    "timestamp": "10/05/2026 2:51 PM",
-    "reason": "Account ('kyotorun50') promoting deceptive cryptocurrency investment scams."
-  },
-  {
-    "id": "353807196087386113",
-    "timestamp": "05/15/2023 10:31 AM",
-    "reason": "Severe raid account posting explicit violence and shock media into public channels."
-  },
-  {
-    "id": "400896526924251136",
-    "timestamp": "10/03/2026 10:34 AM",
-    "reason": "Compromised user account distributing phishing and account-stealing links."
-  },
-  {
-    "id": "406620720437788674",
-    "timestamp": "09/29/2026 2:07 PM",
-    "reason": "Deceptive account sharing server space to run targeted member phishing attacks."
-  },
-  {
-    "id": "484765847546626068",
-    "timestamp": "10/19/2026 1:30 PM",
-    "reason": "Harassment raid participant engaging in severe trolling and channel disruption."
-  },
-  {
-    "id": "490188321226620928",
-    "timestamp": "10/06/2026 12:51 PM",
-    "reason": "Account ('danishgtr') distributing fraudulent cryptocurrency scam links."
-  },
-  {
-    "id": "657811008550600705",
-    "timestamp": "06/06/2023 9:05 PM",
-    "reason": "Cross-server harasser removed from multiple communities for severe unprovoked abuse."
-  },
-  {
-    "id": "687933479622934620",
-    "timestamp": "10/06/2026 3:49 AM",
-    "reason": "Account ('4m4y4s') distributing cryptocurrency phishing messages across servers."
-  },
-  {
-    "id": "696257474420015114",
-    "timestamp": "06/23/2026 11:42 PM",
-    "reason": "Rogue or unauthorized bot account operating maliciously in shared community servers."
   },
   {
     "id": "704031430325436537",
-    "timestamp": "10/19/2026 1:31 PM",
+    "date": "10/19/2026",
     "reason": "Harassment raid participant engaging in coordinated server trolling."
   },
   {
-    "id": "751903171198189618",
-    "timestamp": "10/12/2026 2:43 PM",
-    "reason": "Disruptive troll account flagged for severe behavioral misconduct and harassment."
+    "id": "484765847546626068",
+    "date": "10/19/2026",
+    "reason": "Harassment raid participant engaging in severe trolling and channel disruption."
   },
   {
-    "id": "797391110900285441",
-    "timestamp": "08/23/2026 5:39 PM",
-    "reason": "Compromised account flagged for cross-server spam and phishing outreach."
+    "id": "1561031456392876142",
+    "date": "10/18/2026",
+    "reason": "Ban evasion alt account used to re-enter servers after prior moderation removal."
   },
   {
-    "id": "855443094870687794",
-    "timestamp": "10/04/2026 7:22 AM",
-    "reason": "Account flagged across moderation teams for suspicious targeting of minors."
+    "id": "1242212409498927220",
+    "date": "10/17/2026",
+    "reason": "Automated bot account sending unsolicited recruitment scams in member direct messages."
   },
   {
-    "id": "887491471828209684",
-    "timestamp": "09/15/2021 2:35 PM",
-    "reason": "Compromised account immediately distributing spam upon entering server channels."
+    "id": "1373356582657589398",
+    "date": "10/17/2026",
+    "reason": "Automated bot sending unsolicited spam links into member direct messages."
   },
   {
-    "id": "936358065207390238",
-    "timestamp": "09/11/2026 11:49 AM",
-    "reason": "Automated scam bot targeting community channels with malicious links."
+    "id": "1556010033479815328",
+    "date": "10/15/2026",
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
+  },
+  {
+    "id": "1555629557510447115",
+    "date": "10/15/2026",
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
+  },
+  {
+    "id": "1551464928248856607",
+    "date": "10/15/2026",
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
   },
   {
     "id": "938710016289046608",
-    "timestamp": "10/12/2026 3:36 PM",
+    "date": "10/12/2026",
     "reason": "Account ('f0rgotte1n') mass-spamming unauthorized NSFW server invites."
   },
   {
-    "id": "946841687253213214",
-    "timestamp": "07/16/2026 8:43 PM",
-    "reason": "Flagged account reported across community mod teams for unauthorized solicitation."
+    "id": "751903171198189618",
+    "date": "10/12/2026",
+    "reason": "Disruptive troll account flagged for severe behavioral misconduct and harassment."
+  },
+  {
+    "id": "1533229968656568393",
+    "date": "10/09/2026",
+    "reason": "Compromised account participating in coordinated malicious spam raids."
+  },
+  {
+    "id": "1430353021946040410",
+    "date": "10/09/2026",
+    "reason": "Compromised account participating in coordinated malicious spam raids."
+  },
+  {
+    "id": "1287854594482901005",
+    "date": "10/09/2026",
+    "reason": "Compromised account participating in coordinated malicious spam raids."
+  },
+  {
+    "id": "1144325061654888649",
+    "date": "10/09/2026",
+    "reason": "Compromised account participating in coordinated malicious spam raids."
+  },
+  {
+    "id": "1068874695702761482",
+    "date": "10/08/2026",
+    "reason": "Unsolicited DM spammer targeting server members with phishing links."
+  },
+  {
+    "id": "1523754110409637980",
+    "date": "10/08/2026",
+    "reason": "Social engineering scammer attempting to trick members with fraudulent claims."
+  },
+  {
+    "id": "1507457811381096458",
+    "date": "10/07/2026",
+    "reason": "Unsolicited DM spammer targeting members without shared mutual servers."
+  },
+  {
+    "id": "490188321226620928",
+    "date": "10/06/2026",
+    "reason": "Account ('danishgtr') distributing fraudulent cryptocurrency scam links."
+  },
+  {
+    "id": "687933479622934620",
+    "date": "10/06/2026",
+    "reason": "Account ('4m4y4s') distributing cryptocurrency phishing messages across servers."
+  },
+  {
+    "id": "340714404314349570",
+    "date": "10/05/2026",
+    "reason": "Account ('kyotorun50') promoting deceptive cryptocurrency investment scams."
+  },
+  {
+    "id": "1426974684834041971",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('v3nk_i') used for silent lurking and evasion."
+  },
+  {
+    "id": "1313958539773087845",
+    "date": "10/04/2026",
+    "reason": "Primary account ('lenoirsx_') of a persistent troll spreading hate speech and Discord ToS violations."
+  },
+  {
+    "id": "1351938127530430536",
+    "date": "10/04/2026",
+    "reason": "Confirmed alt account ('matthewandre_x') used for ban evasion and harassment."
   },
   {
     "id": "953748748280946730",
-    "timestamp": "10/04/2026 11:53 PM",
+    "date": "10/04/2026",
     "reason": "Persistent troll account ('lenoired') violating Discord ToS with hate speech and harassment."
   },
   {
+    "id": "1456722209656803483",
+    "date": "10/04/2026",
+    "reason": "Underage user engaging in hate speech and repeated racial slurs."
+  },
+  {
+    "id": "1505223386199232674",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('sophus359353' / 'agdagfda') belonging to a serial harasser."
+  },
+  {
+    "id": "1383608829379346525",
+    "date": "10/04/2026",
+    "reason": "Deleted alt account identified in cross-server ban evasion network."
+  },
+  {
+    "id": "1283321787341340744",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('hell706') belonging to a serial harasser."
+  },
+  {
+    "id": "1436422427142787243",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('yassingamer0317') belonging to a serial harasser."
+  },
+  {
+    "id": "1414752214051721348",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('ah23421') belonging to a serial harasser."
+  },
+  {
+    "id": "1369678199201730602",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('ratchet0549') belonging to a serial harasser."
+  },
+  {
+    "id": "1197253997543825521",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('steavengameryt') belonging to a serial harasser."
+  },
+  {
+    "id": "1110476666192535653",
+    "date": "10/04/2026",
+    "reason": "Confirmed ban evasion alt ('linux706') belonging to a serial harasser."
+  },
+  {
+    "id": "1023079001985663126",
+    "date": "10/04/2026",
+    "reason": "Impersonated community staff members to target unsuspecting users in direct messages."
+  },
+  {
+    "id": "1196850086953631755",
+    "date": "10/04/2026",
+    "reason": "Promoted fraudulent 'MrBeast' cryptocurrency giveaway scams in chat."
+  },
+  {
+    "id": "855443094870687794",
+    "date": "10/04/2026",
+    "reason": "Account flagged across moderation teams for suspicious targeting of minors."
+  },
+  {
+    "id": "1400825354435821730",
+    "date": "10/04/2026",
+    "reason": "Account ('vstromakias7') promoting fraudulent cryptocurrency scams."
+  },
+  {
+    "id": "1555525351914999866",
+    "date": "10/04/2026",
+    "reason": "Malicious account reported for unsolicited advertising and deceptive links."
+  },
+  {
+    "id": "1519707665096507621",
+    "date": "10/03/2026",
+    "reason": "Scammer engaging in name-spoofing and deceptive identity theft."
+  },
+  {
+    "id": "400896526924251136",
+    "date": "10/03/2026",
+    "reason": "Compromised user account distributing phishing and account-stealing links."
+  },
+  {
+    "id": "1286838349335629906",
+    "date": "10/02/2026",
+    "reason": "Automated adult-content / OnlyFans spam bot targeting server members."
+  },
+  {
+    "id": "1555337843235102885",
+    "date": "10/01/2026",
+    "reason": "Scammer advertising fraudulent high-income / 'earn 100k' financial schemes."
+  },
+  {
+    "id": "1287882355251478550",
+    "date": "10/01/2026",
+    "reason": "Compromised account distributing malicious links across tech servers."
+  },
+  {
+    "id": "1492875609372885052",
+    "date": "09/30/2026",
+    "reason": "Malicious spam bot reported to Discord Trust & Safety for account compromise."
+  },
+  {
+    "id": "406620720437788674",
+    "date": "09/29/2026",
+    "reason": "Deceptive account sharing server space to run targeted member phishing attacks."
+  },
+  {
+    "id": "1545981820649218090",
+    "date": "09/11/2026",
+    "reason": "Automated scam bot targeting member direct messages with malicious links."
+  },
+  {
+    "id": "936358065207390238",
+    "date": "09/11/2026",
+    "reason": "Automated scam bot targeting community channels with malicious links."
+  },
+  {
+    "id": "1546840214960607243",
+    "date": "09/08/2026",
+    "reason": "Automated bot account scraping member lists and spamming fake job listings."
+  },
+  {
+    "id": "1537455244928221206",
+    "date": "09/04/2026",
+    "reason": "Automated job listing spam bot posting fake employment opportunities."
+  },
+  {
+    "id": "1395449757371076628",
+    "date": "09/03/2026",
+    "reason": "Automated scam bot masquerading as an AI firm to harvest user credentials."
+  },
+  {
+    "id": "1504087093528231996",
+    "date": "09/01/2026",
+    "reason": "Underage user raiding community voice and text channels."
+  },
+  {
+    "id": "1226567367941689536",
+    "date": "08/23/2026",
+    "reason": "Malicious bot account distributing unauthorized links and spam."
+  },
+  {
+    "id": "797391110900285441",
+    "date": "08/23/2026",
+    "reason": "Compromised account flagged for cross-server spam and phishing outreach."
+  },
+  {
+    "id": "1490501890109341919",
+    "date": "08/21/2026",
+    "reason": "Compromised account spreading fraudulent 'MrBeast' giveaway scams."
+  },
+  {
+    "id": "946841687253213214",
+    "date": "07/16/2026",
+    "reason": "Flagged account reported across community mod teams for unauthorized solicitation."
+  },
+  {
+    "id": "1484769295232794674",
+    "date": "07/02/2026",
+    "reason": "Automated bot account spamming fraudulent gambling service promotions."
+  },
+  {
+    "id": "696257474420015114",
+    "date": "06/23/2026",
+    "reason": "Rogue or unauthorized bot account operating maliciously in shared community servers."
+  },
+  {
+    "id": "1498951849493921943",
+    "date": "06/04/2026",
+    "reason": "Scam account ('@mike_heleket') conducting unauthorized outreach in direct messages."
+  },
+  {
+    "id": "1340331428738502787",
+    "date": "05/29/2026",
+    "reason": "Compromised account flagged for persistent spam distribution."
+  },
+  {
+    "id": "657811008550600705",
+    "date": "06/06/2023",
+    "reason": "Cross-server harasser removed from multiple communities for severe unprovoked abuse."
+  },
+  {
+    "id": "353807196087386113",
+    "date": "05/15/2023",
+    "reason": "Severe raid account posting explicit violence and shock media into public channels."
+  },
+  {
     "id": "989603040237584426",
-    "timestamp": "06/27/2022 3:33 PM",
+    "date": "06/27/2022",
     "reason": "Scam account conducting direct outreach to recruit members into financial carding fraud."
+  },
+  {
+    "id": "887491471828209684",
+    "date": "09/15/2021",
+    "reason": "Compromised account immediately distributing spam upon entering server channels."
   }
 ]
