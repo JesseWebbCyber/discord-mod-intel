@@ -8,15 +8,24 @@ import sys
 import asyncio
 import discord
 
-# --- Configuration ---
-# You can set these directly here, or set them as environment variables
-BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN", "").strip()
-GUILD_ID_INPUT = os.getenv("GUILD_ID", "").strip()
-BAN_REASON = "BAPCS Sentinel: Malicious account flagged on cross-server threat intelligence blocklist"
-
 # Path to banlist.txt in the same directory
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 BANLIST_PATH = os.path.join(SCRIPT_DIR, "banlist.txt")
+
+# Auto-load .env if present
+env_path = os.path.join(SCRIPT_DIR, ".env")
+if os.path.exists(env_path):
+    with open(env_path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
+# --- Configuration ---
+BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN", "").strip()
+GUILD_ID_INPUT = os.getenv("GUILD_ID", "").strip()
+BAN_REASON = "BAPCS Sentinel: Malicious account flagged on cross-server threat intelligence blocklist"
 
 
 async def main():
