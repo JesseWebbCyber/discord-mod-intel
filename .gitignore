@@ -30,6 +30,7 @@ desktop.ini
 
 # Prevents staging or production secret overrides from being publicly exposed
 .env.*
+!.env.example
 
 # Prevents publishing private cryptographic keys and server SSH credentials
 *.key
