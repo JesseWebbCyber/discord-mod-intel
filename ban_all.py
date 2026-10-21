@@ -1,6 +1,6 @@
 """
-BAPCS Sentinel - Mass Ban Script
-Reads banlist.txt and preemptively bans all IDs from your Discord server.
+Discord Mass Ban Automation Script
+Reads banlist.txt and preemptively bans all listed IDs from your Discord server.
 """
 
 import os
@@ -25,7 +25,7 @@ if os.path.exists(env_path):
 # --- Configuration ---
 BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN", "").strip()
 GUILD_ID_INPUT = os.getenv("GUILD_ID", "").strip()
-BAN_REASON = "BAPCS Sentinel: Malicious account flagged on cross-server threat intelligence blocklist"
+BAN_REASON = os.getenv("BAN_REASON", "Malicious account flagged on threat intelligence blocklist")
 
 
 async def main():
@@ -33,7 +33,7 @@ async def main():
     guild_id_str = GUILD_ID_INPUT
 
     if not token:
-        token = input("Enter your BAPCS Sentinel Bot Token: ").strip()
+        token = input("Enter your Discord Bot Token: ").strip()
     if not guild_id_str:
         guild_id_str = input("Enter your Server (Guild) ID: ").strip()
 
@@ -62,7 +62,7 @@ async def main():
         guild = client.get_guild(guild_id)
         if not guild:
             print(f"[!] Error: Bot is not in a server with ID {guild_id}.")
-            print("    Please invite BAPCS Sentinel to the server first!")
+            print("    Please invite the bot to the server first!")
             await client.close()
             return
 
@@ -71,7 +71,7 @@ async def main():
         # Check permissions
         me = guild.me
         if not me.guild_permissions.ban_members:
-            print("[!] Error: BAPCS Sentinel does not have 'Ban Members' permission in this server.")
+            print("[!] Error: Bot does not have 'Ban Members' permission in this server.")
             print("    Please grant the bot a role with 'Ban Members' permission and try again.")
             await client.close()
             return

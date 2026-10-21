@@ -22,6 +22,7 @@ A curated, cross-server blocklist of malicious Discord user IDs, scam bots, and 
 
 1. **Batch Ban:** Open `banlist-comma.txt`, copy all or a subset of IDs, and paste them into your server bot's mass-ban command.
 2. **Lookup an ID:** Open `banlist.json` and press `Ctrl + F` to search an ID and see when and why it was flagged.
+3. **Automate with Python:** Follow the [Bot Automation Guide](BOT_GUIDE.md) to run `ban_all.py` and ban all accounts automatically in the background without message character limits.
 
 ---
 
