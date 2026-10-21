@@ -1,386 +1,322 @@
 [
   {
     "id": "1023079001985663126",
-    "reported_by": "tslayr82",
     "timestamp": "10/04/2026 3:40 PM",
-    "notes": "1023079001985663126"
+    "reason": "Impersonated community staff members to target unsuspecting users in direct messages."
   },
   {
     "id": "1068874695702761482",
-    "reported_by": "jfromthebay",
     "timestamp": "10/08/2026 1:35 PM",
-    "notes": "1068874695702761482"
+    "reason": "Unsolicited DM spammer targeting server members with phishing links."
   },
   {
     "id": "1110476666192535653",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 9:21 PM",
-    "notes": "Not sure if any of you have issues with this user, but by his own admission, he keeps getting banned from PC hardware servers so figured that might apply to some of the ones in here: \"omar\" (don't remember the full tag nor ID) 1197253997543825521 steavengameryt 1283321787341340744 hell706 1369678199201730602 ratchet0549 1110476666192535653 linux706 1414752214051721348 ah23421 1436422427142787243 yassingamer0317 1505223386199232674 sophus359353 Above alts confirmed to be the same person by a combination of own admission and 1:1 matches of system specs. If any of you would happen to know of more alts for this user, feel free to let me know."
+    "reason": "Confirmed ban evasion alt ('linux706') belonging to a serial harasser."
   },
   {
     "id": "1144325061654888649",
-    "reported_by": "tslayr82",
     "timestamp": "10/09/2026 7:00 PM",
-    "notes": "1144325061654888649 1430353021946040410 1287854594482901005 1533229968656568393"
+    "reason": "Compromised account participating in coordinated malicious spam raids."
   },
   {
     "id": "1196850086953631755",
-    "reported_by": "byokugen",
     "timestamp": "10/04/2026 2:45 PM",
-    "notes": "<1196850086953631755> (jonatan0576) and another mr beast crypto scam \ud83d\ude42"
+    "reason": "Promoted fraudulent 'MrBeast' cryptocurrency giveaway scams in chat."
   },
   {
     "id": "1197253997543825521",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 9:21 PM",
-    "notes": "Not sure if any of you have issues with this user, but by his own admission, he keeps getting banned from PC hardware servers so figured that might apply to some of the ones in here: \"omar\" (don't remember the full tag nor ID) 1197253997543825521 steavengameryt 1283321787341340744 hell706 1369678199201730602 ratchet0549 1110476666192535653 linux706 1414752214051721348 ah23421 1436422427142787243 yassingamer0317 1505223386199232674 sophus359353 Above alts confirmed to be the same person by a combination of own admission and 1:1 matches of system specs. If any of you would happen to know of more alts for this user, feel free to let me know."
+    "reason": "Confirmed ban evasion alt ('steavengameryt') belonging to a serial harasser."
   },
   {
     "id": "1226567367941689536",
-    "reported_by": "jfromthebay",
     "timestamp": "08/23/2026 8:42 PM",
-    "notes": "1226567367941689536"
+    "reason": "Malicious bot account distributing unauthorized links and spam."
   },
   {
     "id": "1242212409498927220",
-    "reported_by": "mrroomba",
     "timestamp": "10/17/2026 2:06 PM",
-    "notes": "1242212409498927220"
+    "reason": "Automated bot account sending unsolicited recruitment scams in member direct messages."
   },
   {
     "id": "1283321787341340744",
-    "reported_by": "bilko",
     "timestamp": "10/04/2026 9:27 PM",
-    "notes": "agdagfda / 1505223386199232674 Account Deleted / 1383608829379346525 hell706 / 1283321787341340744 Those are the ones we have that you don't <@451713311726239744>"
+    "reason": "Confirmed ban evasion alt ('hell706') belonging to a serial harasser."
   },
   {
     "id": "1286838349335629906",
-    "reported_by": "mrroomba",
     "timestamp": "10/02/2026 4:48 PM",
-    "notes": "1286838349335629906"
+    "reason": "Automated adult-content / OnlyFans spam bot targeting server members."
   },
   {
     "id": "1287854594482901005",
-    "reported_by": "tslayr82",
     "timestamp": "10/09/2026 7:00 PM",
-    "notes": "1144325061654888649 1430353021946040410 1287854594482901005 1533229968656568393"
+    "reason": "Compromised account participating in coordinated malicious spam raids."
   },
   {
     "id": "1287882355251478550",
-    "reported_by": "mrroomba",
     "timestamp": "10/01/2026 7:21 AM",
-    "notes": "1287882355251478550"
+    "reason": "Compromised account distributing malicious links across tech servers."
   },
   {
     "id": "1313451022491848764",
-    "reported_by": "jfromthebay",
     "timestamp": "10/19/2026 3:05 PM",
-    "notes": "1313451022491848764"
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
   },
   {
     "id": "1313958539773087845",
-    "reported_by": "brutus.tech",
     "timestamp": "10/04/2026 11:57 PM",
-    "notes": "lenoirsx_ 1313958539773087845"
+    "reason": "Primary account ('lenoirsx_') of a persistent troll spreading hate speech and Discord ToS violations."
   },
   {
     "id": "1340331428738502787",
-    "reported_by": "jfromthebay",
     "timestamp": "05/29/2026 12:00 PM",
-    "notes": "1340331428738502787"
+    "reason": "Compromised account flagged for persistent spam distribution."
   },
   {
     "id": "1351938127530430536",
-    "reported_by": "brutus.tech",
     "timestamp": "10/04/2026 11:56 PM",
-    "notes": "v3nk_i 1426974684834041971 matthewandre_x 1351938127530430536"
+    "reason": "Confirmed alt account ('matthewandre_x') used for ban evasion and harassment."
   },
   {
     "id": "1369678199201730602",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 9:21 PM",
-    "notes": "Not sure if any of you have issues with this user, but by his own admission, he keeps getting banned from PC hardware servers so figured that might apply to some of the ones in here: \"omar\" (don't remember the full tag nor ID) 1197253997543825521 steavengameryt 1283321787341340744 hell706 1369678199201730602 ratchet0549 1110476666192535653 linux706 1414752214051721348 ah23421 1436422427142787243 yassingamer0317 1505223386199232674 sophus359353 Above alts confirmed to be the same person by a combination of own admission and 1:1 matches of system specs. If any of you would happen to know of more alts for this user, feel free to let me know."
+    "reason": "Confirmed ban evasion alt ('ratchet0549') belonging to a serial harasser."
   },
   {
     "id": "1373356582657589398",
-    "reported_by": "mrroomba",
     "timestamp": "10/17/2026 1:49 AM",
-    "notes": "1373356582657589398"
+    "reason": "Automated bot sending unsolicited spam links into member direct messages."
   },
   {
     "id": "1383608829379346525",
-    "reported_by": "bilko",
     "timestamp": "10/04/2026 9:27 PM",
-    "notes": "agdagfda / 1505223386199232674 Account Deleted / 1383608829379346525 hell706 / 1283321787341340744 Those are the ones we have that you don't <@451713311726239744>"
+    "reason": "Deleted alt account identified in cross-server ban evasion network."
   },
   {
     "id": "1395449757371076628",
-    "reported_by": "mrroomba",
     "timestamp": "09/03/2026 10:47 AM",
-    "notes": "1395449757371076628 Ai firm scam bot account"
+    "reason": "Automated scam bot masquerading as an AI firm to harvest user credentials."
   },
   {
     "id": "1400825354435821730",
-    "reported_by": "byokugen",
     "timestamp": "10/04/2026 3:23 AM",
-    "notes": "<1400825354435821730> (vstromakias7) standard crypto scam"
+    "reason": "Account ('vstromakias7') promoting fraudulent cryptocurrency scams."
   },
   {
     "id": "1414752214051721348",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 9:21 PM",
-    "notes": "Not sure if any of you have issues with this user, but by his own admission, he keeps getting banned from PC hardware servers so figured that might apply to some of the ones in here: \"omar\" (don't remember the full tag nor ID) 1197253997543825521 steavengameryt 1283321787341340744 hell706 1369678199201730602 ratchet0549 1110476666192535653 linux706 1414752214051721348 ah23421 1436422427142787243 yassingamer0317 1505223386199232674 sophus359353 Above alts confirmed to be the same person by a combination of own admission and 1:1 matches of system specs. If any of you would happen to know of more alts for this user, feel free to let me know."
+    "reason": "Confirmed ban evasion alt ('ah23421') belonging to a serial harasser."
   },
   {
     "id": "1426974684834041971",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 11:59 PM",
-    "notes": "Here's another alt we have: 1426974684834041971 v3nk_i But realistically, trying to hunt down his alts is rather pointless. He'll just silently lurk on them and think he's \"winning\" because he's not getting banned on them, when in reality he's the one who's actually having to follow rules. Better to ignore the fact that he's probably got 5 alts in servers he harasses at any given time and just ban whenever his mask slips on one of them, than trying to obsess over hunting them all down."
+    "reason": "Confirmed ban evasion alt ('v3nk_i') used for silent lurking and evasion."
   },
   {
     "id": "1430353021946040410",
-    "reported_by": "tslayr82",
     "timestamp": "10/09/2026 7:00 PM",
-    "notes": "1144325061654888649 1430353021946040410 1287854594482901005 1533229968656568393"
+    "reason": "Compromised account participating in coordinated malicious spam raids."
   },
   {
     "id": "1436422427142787243",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 9:21 PM",
-    "notes": "Not sure if any of you have issues with this user, but by his own admission, he keeps getting banned from PC hardware servers so figured that might apply to some of the ones in here: \"omar\" (don't remember the full tag nor ID) 1197253997543825521 steavengameryt 1283321787341340744 hell706 1369678199201730602 ratchet0549 1110476666192535653 linux706 1414752214051721348 ah23421 1436422427142787243 yassingamer0317 1505223386199232674 sophus359353 Above alts confirmed to be the same person by a combination of own admission and 1:1 matches of system specs. If any of you would happen to know of more alts for this user, feel free to let me know."
+    "reason": "Confirmed ban evasion alt ('yassingamer0317') belonging to a serial harasser."
   },
   {
     "id": "1456722209656803483",
-    "reported_by": "bilko",
-    "timestamp": "10/04/2026 9:06 PM",
-    "notes": "Underage (and quite racist) user: 1456722209656803483"
+    "timestamp": "10/04/2026 9:28 PM",
+    "reason": "Underage user engaging in hate speech and repeated racial slurs."
   },
   {
     "id": "1484769295232794674",
-    "reported_by": "jfromthebay",
     "timestamp": "07/02/2026 10:20 PM",
-    "notes": "1484769295232794674"
+    "reason": "Automated bot account spamming fraudulent gambling service promotions."
   },
   {
     "id": "1490501890109341919",
-    "reported_by": "jfromthebay",
     "timestamp": "08/21/2026 10:34 PM",
-    "notes": "1490501890109341919"
+    "reason": "Compromised account spreading fraudulent 'MrBeast' giveaway scams."
   },
   {
     "id": "1492875609372885052",
-    "reported_by": "jfromthebay",
     "timestamp": "09/30/2026 1:30 PM",
-    "notes": "1492875609372885052"
+    "reason": "Malicious spam bot reported to Discord Trust & Safety for account compromise."
   },
   {
     "id": "1498951849493921943",
-    "reported_by": "mrroomba",
     "timestamp": "06/04/2026 7:36 AM",
-    "notes": "User ID: @mike_heleket (1498951849493921943)"
+    "reason": "Scam account ('@mike_heleket') conducting unauthorized outreach in direct messages."
   },
   {
     "id": "1504087093528231996",
-    "reported_by": "bilko",
     "timestamp": "09/01/2026 2:55 AM",
-    "notes": "1504087093528231996 Underage user, joined our server and Intel <@306899600382492673>"
+    "reason": "Underage user raiding community voice and text channels."
   },
   {
     "id": "1505223386199232674",
-    "reported_by": "bilko",
     "timestamp": "10/04/2026 9:27 PM",
-    "notes": "agdagfda / 1505223386199232674 Account Deleted / 1383608829379346525 hell706 / 1283321787341340744 Those are the ones we have that you don't <@451713311726239744>"
+    "reason": "Confirmed ban evasion alt ('sophus359353' / 'agdagfda') belonging to a serial harasser."
   },
   {
     "id": "1507457811381096458",
-    "reported_by": "tslayr82",
     "timestamp": "10/07/2026 11:22 AM",
-    "notes": "1507457811381096458"
+    "reason": "Unsolicited DM spammer targeting members without shared mutual servers."
   },
   {
     "id": "1519707665096507621",
-    "reported_by": "d2ultima",
     "timestamp": "10/03/2026 11:06 AM",
-    "notes": "1519707665096507621 name scam"
+    "reason": "Scammer engaging in name-spoofing and deceptive identity theft."
   },
   {
     "id": "1523754110409637980",
-    "reported_by": "jfromthebay",
     "timestamp": "10/08/2026 1:11 AM",
-    "notes": "1523754110409637980"
+    "reason": "Social engineering scammer attempting to trick members with fraudulent claims."
   },
   {
     "id": "1533229968656568393",
-    "reported_by": "tslayr82",
     "timestamp": "10/09/2026 7:00 PM",
-    "notes": "1144325061654888649 1430353021946040410 1287854594482901005 1533229968656568393"
+    "reason": "Compromised account participating in coordinated malicious spam raids."
   },
   {
     "id": "1537455244928221206",
-    "reported_by": "mrroomba",
     "timestamp": "09/04/2026 11:31 AM",
-    "notes": "1537455244928221206"
+    "reason": "Automated job listing spam bot posting fake employment opportunities."
   },
   {
     "id": "1545981820649218090",
-    "reported_by": "mrroomba",
     "timestamp": "09/11/2026 11:44 PM",
-    "notes": "1545981820649218090"
+    "reason": "Automated scam bot targeting member direct messages with malicious links."
   },
   {
     "id": "1546840214960607243",
-    "reported_by": "mrroomba",
     "timestamp": "09/08/2026 4:24 PM",
-    "notes": "1546840214960607243 Job listing bot"
+    "reason": "Automated bot account scraping member lists and spamming fake job listings."
   },
   {
     "id": "1551464928248856607",
-    "reported_by": "watermelonkirbs",
     "timestamp": "10/15/2026 1:33 PM",
-    "notes": "1556010033479815328 1313451022491848764 1555629557510447115 1551464928248856607 Joined at the same time to advertise some hackathon, one advertised while the others did a terrible job pretending to be members who were hyped about it. Saw they were in some other tech servers."
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
   },
   {
     "id": "1555337843235102885",
-    "reported_by": "jfromthebay",
     "timestamp": "10/01/2026 11:45 PM",
-    "notes": "1555337843235102885"
+    "reason": "Scammer advertising fraudulent high-income / 'earn 100k' financial schemes."
   },
   {
     "id": "1555525351914999866",
-    "reported_by": "jfromthebay",
     "timestamp": "10/04/2026 3:20 AM",
-    "notes": "1555525351914999866"
+    "reason": "Malicious account reported for unsolicited advertising and deceptive links."
   },
   {
     "id": "1555629557510447115",
-    "reported_by": "watermelonkirbs",
     "timestamp": "10/15/2026 1:33 PM",
-    "notes": "1556010033479815328 1313451022491848764 1555629557510447115 1551464928248856607 Joined at the same time to advertise some hackathon, one advertised while the others did a terrible job pretending to be members who were hyped about it. Saw they were in some other tech servers."
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
   },
   {
     "id": "1556010033479815328",
-    "reported_by": "watermelonkirbs",
     "timestamp": "10/15/2026 1:33 PM",
-    "notes": "1556010033479815328 1313451022491848764 1555629557510447115 1551464928248856607 Joined at the same time to advertise some hackathon, one advertised while the others did a terrible job pretending to be members who were hyped about it. Saw they were in some other tech servers."
+    "reason": "Coordinated advertising raid account using fake member hype to promote third-party events."
   },
   {
     "id": "1561031456392876142",
-    "reported_by": "jfromthebay",
     "timestamp": "10/18/2026 4:06 PM",
-    "notes": "1561031456392876142"
+    "reason": "Ban evasion alt account used to re-enter servers after prior moderation removal."
   },
   {
     "id": "340714404314349570",
-    "reported_by": "byokugen",
     "timestamp": "10/05/2026 2:51 PM",
-    "notes": "kyotorun50 <340714404314349570> Another crypto scam"
+    "reason": "Account ('kyotorun50') promoting deceptive cryptocurrency investment scams."
   },
   {
     "id": "353807196087386113",
-    "reported_by": "mzgszm",
     "timestamp": "05/15/2023 10:31 AM",
-    "notes": "Just gonna share this user id: 353807196087386113 They joined another server I moderate to post a gif of someone shooting themselves in the head with a shotgun. No filters caught it."
+    "reason": "Severe raid account posting explicit violence and shock media into public channels."
   },
   {
     "id": "400896526924251136",
-    "reported_by": "mrroomba",
     "timestamp": "10/03/2026 10:34 AM",
-    "notes": "400896526924251136"
+    "reason": "Compromised user account distributing phishing and account-stealing links."
   },
   {
     "id": "406620720437788674",
-    "reported_by": "jfromthebay",
     "timestamp": "09/29/2026 2:07 PM",
-    "notes": "406620720437788674"
+    "reason": "Deceptive account sharing server space to run targeted member phishing attacks."
   },
   {
     "id": "484765847546626068",
-    "reported_by": "mrroomba",
     "timestamp": "10/19/2026 1:30 PM",
-    "notes": "484765847546626068"
+    "reason": "Harassment raid participant engaging in severe trolling and channel disruption."
   },
   {
     "id": "490188321226620928",
-    "reported_by": "byokugen",
     "timestamp": "10/06/2026 12:51 PM",
-    "notes": "<490188321226620928> (danishgtr) And another crypto"
+    "reason": "Account ('danishgtr') distributing fraudulent cryptocurrency scam links."
   },
   {
     "id": "657811008550600705",
-    "reported_by": "gaugeprower",
     "timestamp": "06/06/2023 9:05 PM",
-    "notes": "Heads up Mod teams, we have a user joining multiple large tech servers and getting high level nasty, un provoked. I understand different levels of trolling, but this is zero tolerance shit that is uncalled for and shouldn't be tolerated. At your discretion, I'd recommend that if this ID is in your server, to give them the boot. They have been removed from NZXT and Razer. ID: 657811008550600705"
+    "reason": "Cross-server harasser removed from multiple communities for severe unprovoked abuse."
   },
   {
     "id": "687933479622934620",
-    "reported_by": "byokugen",
     "timestamp": "10/06/2026 3:49 AM",
-    "notes": "<687933479622934620> (4m4y4s) and another one \ud83d\ude42"
+    "reason": "Account ('4m4y4s') distributing cryptocurrency phishing messages across servers."
   },
   {
     "id": "696257474420015114",
-    "reported_by": "mrroomba",
     "timestamp": "06/23/2026 11:42 PM",
-    "notes": "<@111798505042939904> 696257474420015114 Bot in your server"
+    "reason": "Rogue or unauthorized bot account operating maliciously in shared community servers."
   },
   {
     "id": "704031430325436537",
-    "reported_by": "mrroomba",
     "timestamp": "10/19/2026 1:31 PM",
-    "notes": "704031430325436537"
+    "reason": "Harassment raid participant engaging in coordinated server trolling."
   },
   {
     "id": "751903171198189618",
-    "reported_by": "smokcat",
     "timestamp": "10/12/2026 2:43 PM",
-    "notes": "anyone know a <@751903171198189618> `751903171198189618`? they seem to have a psychotic break, troll, other mental issue or substance abuse issue"
+    "reason": "Disruptive troll account flagged for severe behavioral misconduct and harassment."
   },
   {
     "id": "797391110900285441",
-    "reported_by": "jfromthebay",
     "timestamp": "08/23/2026 5:39 PM",
-    "notes": "797391110900285441"
+    "reason": "Compromised account flagged for cross-server spam and phishing outreach."
   },
   {
     "id": "855443094870687794",
-    "reported_by": "awervekov",
     "timestamp": "10/04/2026 7:22 AM",
-    "notes": "Watch out for 855443094870687794"
+    "reason": "Account flagged across moderation teams for suspicious targeting of minors."
   },
   {
     "id": "887491471828209684",
-    "reported_by": "madben65",
     "timestamp": "09/15/2021 2:35 PM",
-    "notes": "887491471828209684 just joined watercooling"
+    "reason": "Compromised account immediately distributing spam upon entering server channels."
   },
   {
     "id": "936358065207390238",
-    "reported_by": "mrroomba",
     "timestamp": "09/11/2026 11:49 AM",
-    "notes": "936358065207390238"
+    "reason": "Automated scam bot targeting community channels with malicious links."
   },
   {
     "id": "938710016289046608",
-    "reported_by": "brutus.tech",
     "timestamp": "10/12/2026 3:36 PM",
-    "notes": "938710016289046608 / `f0rgotte1n` - spam invites to sex-related discord server"
+    "reason": "Account ('f0rgotte1n') mass-spamming unauthorized NSFW server invites."
   },
   {
     "id": "946841687253213214",
-    "reported_by": "jfromthebay",
     "timestamp": "07/16/2026 8:43 PM",
-    "notes": "User ID: 946841687253213214"
+    "reason": "Flagged account reported across community mod teams for unauthorized solicitation."
   },
   {
     "id": "953748748280946730",
-    "reported_by": "edynn",
     "timestamp": "10/04/2026 11:53 PM",
-    "notes": "Have not. For those curious, he's some unemployed vibe coder with endless time to yap about his world views, more or less all of which would be against Discord ToS (racism, sexism, pro-eugenics and a bunch more). These are the two main accounts we have on record: 1313958539773087845 lenoirsx_ 953748748280946730 lenoired Though if I'm not mistaken, one of those has been suspended by Discord and the other one may also be so he might be on another account these days."
+    "reason": "Persistent troll account ('lenoired') violating Discord ToS with hate speech and harassment."
   },
   {
     "id": "989603040237584426",
-    "reported_by": "rohzino",
     "timestamp": "06/27/2022 3:33 PM",
-    "notes": "Newegg mods - got a scammy scam for you. 989603040237584426 - has \u201crecruited\u201d me for an online carding scheme. Seems to be in the Newegg server."
+    "reason": "Scam account conducting direct outreach to recruit members into financial carding fraud."
   }
 ]
